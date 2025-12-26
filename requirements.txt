@@ -1,0 +1,9 @@
+kafka-python==2.0.2
+confluent-kafka==2.3.0
+pyspark==3.5.1
+apache-airflow-providers-apache-kafka
+apache-airflow-providers-postgres
+psycopg2-binary
+pandas==2.2.3
+numpy==2.1.2
+requests
