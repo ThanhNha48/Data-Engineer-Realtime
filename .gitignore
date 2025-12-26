@@ -1,14 +1,16 @@
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Airflow logs
+logs/
+airflow.db
+
 # Python
 __pycache__/
 *.pyc
 
-# Airflow
-logs/
-airflow.db
-
-# Env
-.env
-.env.*
-
-# Docker
-*.log
+# OS
+.DS_Store
+Thumbs.db
